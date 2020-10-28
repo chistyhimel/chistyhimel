@@ -2,14 +2,4 @@
 
 I'm Himel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Web Developement
-- 🌱 I’m currently learning ... React js
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... [Facebook](https://facebook.com/chisty.himel)
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
--->
+I'm a passionate MERN Stake Web Developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I love coding. I'm currently an Information Science student at Noakhali Science and Technology University. When I'm not on my study or coding, you'll find me reading books, or watching movies. 
