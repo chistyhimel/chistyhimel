@@ -9,10 +9,10 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 **_About Me:_**<br>
-I'm a skilled **_MERN Stack Developer_** with strong frontend and Backend knowledge with experience. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I love coding. I'm currently an Information Science student at Noakhali Science and Technology University. When I'm not on my study or coding, you'll find me reading books, or watching movies.
+I'm a skilled **_MERN Stack Developer_** with strong frontend and Backend knowledge and experience. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I love coding. When I'm not on my study or coding, you'll find me reading books, or watching movies.
 <br>
 <br>
-I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
+I'm always eager to learn, open to changing my way of thinking and implementing things, and open to learning new technologies, frameworks, and development techniques every day!
 <br>
 
 **_My Coding Skills:_**<br>
@@ -23,7 +23,7 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Team-W
 
 **_Do I Sound Like a Good Fit For Your Team?_**
 <br>
-Get in touch with me at fazle.chisty@gmail.com or through my linkedIn (link above).
+Contact me at fazle.chisty@gmail.com or through my LinkedIn (link above).
 
 <p align="center">
   <span align="center" class="d-flex">
